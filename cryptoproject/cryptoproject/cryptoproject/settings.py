@@ -129,5 +129,5 @@ MEDIA_URL = '/media/'
 
 EMAIL_BACKEND = 'django_ses.SESBackend'
 AWS_SES_REGION_NAME = 'ap-south-1'
-AWS_ACCESS_KEY_ID = 'AKIAYC5PFVWQBBQ3EWOP'
-AWS_SECRET_ACCESS_KEY = 'JLg9knLrTSOzG3UsY+Ao9QQ0PhtZqU24YVqQ8ob8'
+AWS_ACCESS_KEY_ID = 'your access key id'
+AWS_SECRET_ACCESS_KEY = 'your secret access key'
